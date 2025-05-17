@@ -73,12 +73,6 @@ For security reasons, Gmail requires an app password for SMTP access:
 6. Send your email:
    - Click "Send Email" when ready
 
-## Security Notes
-
-- Never commit your config.json file to version control
-- Add config.json to your .gitignore file
-- Keep your API keys and passwords secure
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
